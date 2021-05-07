@@ -7,7 +7,7 @@ Nesse desafio você colocará em prática o que aprendemos em relação a utiliz
 
 O retorno da aplicação node.js para o nginx deverá ser:
 
-"Full Cycle Rocks!
+Full Cycle Rocks!
 
 - Lista de nomes cadastrada no banco de dados.
 
